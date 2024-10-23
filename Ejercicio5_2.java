@@ -31,12 +31,16 @@ class Teoria {
     String objectives;
 
     // Constructor
-    public Teoria(String name, String author, String description, int creationDate, String state) {
+    public Teoria(String name, String author, String description, int creationDate, String state, String type, String characteristics,String plan,String objectives) {
         this.name = name;
         this.author = author;
         this.description = description;
         this.creationDate = creationDate;
         this.state = state;
+        this.type = type;
+        this.characteristics = characteristics;
+        this.plan = plan;
+        this.objectives = objectives;
     }
 
     // Método para imprimir la información de la teoría
