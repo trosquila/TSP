@@ -2,7 +2,7 @@ public class Ejercicio5_2 {
 
     public static void main(String[] args) {
         // Declaramos los datos de la teoría
-        Teoria teoria1 = new Teoria("Modelo de 3 Etapas de Lewin", "Lewin", "Dividido en 3 etapas que buscan ententer y getionar el cambio", 1940, "en uso",,,,);
+        Teoria teoria1 = new Teoria("Modelo de 3 Etapas de Lewin", "Lewin", "Dividido en 3 etapas que buscan ententer y getionar el cambio", 1940, "en uso","modelo","compuesto por 3 etapas","compuesto por tres fases descongelamiento, cambio, recongelamiento","realizar un cambio con tres pasos");
         Teoria teoria2 = new Teoria("Modelo de 8 Pasos de Kotter", "Kotter", "modelo de 8 pasos algunos de sus enfoces son el eliminar obstaculos y generar éxitos por logros a corto plazo", 1996, "en uso",,,,);
         Teoria teoria3 = new Teoria("Modelo ADKAR de Prosci", "Prosci", " Se centra en la conciencia, deseo, conocimiento, habilidad y refuerzo", 1990, "en uso",,,,);
         Teoria teoria4 = new Teoria("Modelo de Cambio Planeado de Lippitt", "Lippitt", "Descompone el cambio en siete etapas, desde el diagnóstico del problema hasta la estabilización del cambio.", 1958, "en desuso","modelo","Se enfoca en el proceso de cambio planificado con un enfoque en la dinámica de las relaciones","Diagnóstico, Evaluación de Motivación, Definición de Progresos, Actuar como agente de cambio, Estabilización, Seguimiento, Finalización","Guiar a las organizaciones a través de un cambio estructurado y mantener la estabilidad post-cambio");
