@@ -6,13 +6,14 @@ public class Ejercicio5_2 {
         Teoria teoria2 = new Teoria("Modelo de Cambio Planeado de Lippitt", "Lippitt", "Descompone el cambio en siete etapas, desde el diagnóstico del problema hasta la estabilización del cambio.", 1958, "en desuso","modelo","Se enfoca en el proceso de cambio planificado con un enfoque en la dinámica de las relaciones","Diagnóstico, Evaluación de Motivación, Definición de Progresos, Actuar como agente de cambio, Estabilización, Seguimiento, Finalización","Guiar a las organizaciones a través de un cambio estructurado y mantener la estabilidad post-cambio");
         Teoria teoria3 = new Teoria("Teoría del Cambio de Everett Rogers", "Rogers", "Explica cómo las innovaciones se difunden en una organización o sociedad, desde los innovadores hasta los rezagados.", 1962, "en uso","teoría","Se centra en cómo los individuos y grupos adoptan nuevas ideas o tecnologías.","Innovadores, Adoptadores tempranos, Mayoría temprana, Mayoría tardía, Rezagados.","Facilitar la adopción de innovaciones a través de la comprensión de los factores que afectan su difusión.");
         Teoria teoria4 = new Teoria("Modelo de Transición de Bridges", "Bridges", "Centrado en la transición en lugar del cambio", 1980, "en uso","modelo", "compuesto por tres etapas", "Terminar, Zona Neutral, Nuevo Comienzo", "Ayudar a las personas a dejar atrás el pasado y asumir nuevos comportamientos o formas de pensar");
-
+Teoria teoria5 = new Teoria("Curva del Cambio de Kübler-Ross", "Kübler-Ross", "Modelo que describe cinco etapas del duelo", 1969, "en uso", "modelo", "compuesto por cinco etapas", "Negación, Ira, Negociación, Depresión, Aceptación", "Ayudar a las personas a entender y gestionar el duelo y el cambio)";
 
         // Imprimimos la información de las teorías
         System.out.println(teoria1);
         System.out.println(teoria2);  
         System.out.println(teoria3);  
         System.out.println(teoria4);
+        System.out.println(teoria5);
     }
 }
 
