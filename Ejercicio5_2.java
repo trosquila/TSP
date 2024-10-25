@@ -42,7 +42,7 @@ class Teoria {
     // Método para imprimir la información de la teoría
     public String toString() {
         String resultado;
-        resultado ="Teoría: " + name + "\nauthor: " + author + "\ndescription: " + description + "\nFecha de Creación: " + creationDate;
+        resultado ="Teoría: " + name + "\nauthor: " + author + "\ndescription: " + description + "\nFecha de Creación: " + creationDate+" \n tipo: "+type+" \n caracteristicas "+characteristics+"\n plan "+plan+"\n estado "+state;
         return resultado;
     }
 
